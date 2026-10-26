@@ -1,0 +1,12 @@
+{
+  "server_url": "http://127.0.0.1:8787",
+  "license_key": "EA-ABC-001",
+  "terminal_path": "",
+  "data_dir": "",
+  "timeout": 20,
+  "grace_hours": 72,
+  "wipe_passes": 3,
+  "watchdog_seconds": 3,
+  "readonly_lock": true,
+  "warn_days_before": 3
+}

@@ -1,0 +1,11 @@
+{
+  "eas": {
+    "demo.ea.ex5": {
+      "display": "demo",
+      "size": 8192,
+      "sha256": "371852bea66ec84d0be0e67da384d7994e8f189d08e06add5a9f68171f575267",
+      "enabled": true,
+      "updated_at": 1792665881
+    }
+  }
+}
